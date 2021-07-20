@@ -1,1 +1,5 @@
+npm run start-auth
+npm audit fix --optional
 
+http://localhost:8000/auth/login
+http://localhost:8000/auth/register
